@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Journal Blog"
+theme = "anubis"
+
+[menu]
+[[menu.main]]
+name = "About"
+url= "/about"
+
+[[menu.main]]
+name = "Journal"
+url = "/categories/Journal"
+weight = 2
